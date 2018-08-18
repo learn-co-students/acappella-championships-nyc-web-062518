@@ -11,6 +11,13 @@ h1, h2 {
   margin-bottom: 0px;
 }
 
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+
 th {
   font-weight: bold;
 }
